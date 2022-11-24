@@ -16,4 +16,4 @@ Placing the base GCODE in the **_input_** file and running the program will star
 
 The program will ask for the offset distance in mm, and for the axis to move the model on.
 
-After that the new modified GCODE will be created in the **_output_** folder
+After that the new modified GCODE will be created in the **_output_** folder.
